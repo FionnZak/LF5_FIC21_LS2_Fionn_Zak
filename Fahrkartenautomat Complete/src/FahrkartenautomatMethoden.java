@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Dies ist ein Test Kommentaer für GitHub
 public class FahrkartenautomatMethoden {
 
 	public static void main(String[] args) {
